@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-on-Mercedes-Benz--UK-Used-Car-Sales
+This repository contains an analysis of used Mercedes-Benz sales in the UK. Features like year, mileage, and engine size are included. Basic data cleaning was performed and machine learning techniques were used to analyze and predict car prices. The analysis includes insights on factors that influence the price of used Mercedes-Benz cars.
